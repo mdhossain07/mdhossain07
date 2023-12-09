@@ -10,7 +10,8 @@
 ## Find Me On
 
 <p align ="center">  
-<img style={padding: "20px"} src="https://raw.githubusercontent.com/mdhossain07/mdhossain07/main/LinkedIn%20Logo.png"/> 
+  <a href="https://www.linkedin.com/in/thisisabirhossain/">
+    <img style={padding: "20px"} src="https://raw.githubusercontent.com/mdhossain07/mdhossain07/main/LinkedIn%20Logo.png"/></a> 
 </p>
 
 ## Technologies i work with
