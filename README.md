@@ -89,10 +89,6 @@ Features:
 </ul>
 
 
-## My Contributions
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhossain07&theme=nightowl)
-
 ## About Me
 
 - 🔭 I’m currently working on Learn Craft Project. It's an E-learning platform like udemy.
